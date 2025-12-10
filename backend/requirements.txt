@@ -9,5 +9,6 @@ kaleido==0.2.1
 numpy>=1.26.0
 pandas>=2.2.0
 scipy>=1.11.0
-pydantic==2.5.3
+pydantic>=2.10.0
+pydantic-core>=2.27.0
 python-multipart==0.0.6
